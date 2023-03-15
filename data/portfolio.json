@@ -42,7 +42,7 @@
         },
         {
             "id": "3",
-            "title": "Project Three",
+            "title": "Tank Wars",
             "description": "Network App Design",
             "imageSrc": "/images/tank_wars.png",
             "url": "https://github.com/uofu-cs3500-fall20/game-adeptusprogramatus_game"

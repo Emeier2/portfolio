@@ -1,0 +1,141 @@
+{
+    "name": "Ethan",
+    "headerTaglineOne": "Ethan Meier",
+    "headerTaglineTwo": "Web Development",
+    "headerTaglineThree": "UX Design",
+    "headerTaglineFour": "University of Utah",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/Emeier2"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ethan-meier-968587152/"
+        },
+        {
+            "id": "3",
+            "title": "Twitter",
+            "link": "Placeholder"
+        },
+        {
+            "id": "4",
+            "title": "Blog",
+            "link": "placeholder"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:Ethan.meier@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Xvoyant - Website",
+            "description": "Web Development",
+            "imageSrc": "https://www.xvoyant.com/images/actionshot.png",
+            "url": "https://www.xvoyant.com"
+        },
+        {
+            "id": "2",
+            "title": "Project Two",
+            "description": "Mobile Design",
+            "imageSrc": "/images/mobile.png",
+            "url": "https://github.com/Emeier2/MobileApp"
+        },
+        {
+            "id": "3",
+            "title": "Project Three",
+            "description": "Network App Design",
+            "imageSrc": "/images/tank_wars.png",
+            "url": "https://github.com/uofu-cs3500-fall20/game-adeptusprogramatus_game"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "UX Design",
+            "description": "My experience working for startups has given me a crash course in effective user design. This skill is both fundamental and essential to the success of any product."
+        },
+        {
+            "id": "2",
+            "title": "Communication",
+            "description": "My talent for UX design is an extension of my passion for effective communication. A good interface is like an essay, and I've learned to target the right audience and speak to them"
+        },
+        {
+            "id": "3",
+            "title": "Web Design",
+            "description": "Using the latest technologies, I build responsive websites that look great on any device. I also provide ongoing support and maintenance as well as SEO services."
+        },
+        {
+            "id": "4",
+            "title": "Full Stack Development",
+            "description": "I have experience building full stack applications using React, Node, and MongoDB. I also have experience with Python and Django. These skills have worked hand in hand with my web design"
+        }
+    ],
+    "aboutpara": "I am a web developer with 5 years industry experience. I have worked on a wide range of projects from small business websites to large scale web applications. I have a passion for creating beautiful, intuitive, and functional websites. I have a strong background in web development and design, and I enjoy working with clients to bring their ideas to life. I am a self-starter and a quick learner, and I am always looking for new opportunities to grow and learn. I have also decided to further my career with a BS in CS at the University of Utah, which I will graduate from this fall",
+    "resume": {
+        "tagline": "Software Engineer, Web Designer, People person",
+        "description": "My skill in Web Development includes a deep knowledge of HTML, CSS, and JavaScript. I have experience with React, Node, and MongoDB. I also have experience with Python and Django. These skills have worked hand in hand with my web design",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "September 2017-May 2022",
+                "type": "Full Time",
+                "position": "Fullstack Developer at Xvoyant",
+                "bullets": "Designed and implemented the company website, Upgraded old website and integrated Wordpress quickly and to the great satisfaction of our clients"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "May 2022 - Present",
+                "type": "Full Time",
+                "position": "Systems Analyst at Bear River Mutual",
+                "bullets": "Learned Manuscript designed in short order, Became senior technical analyst after two months"
+            }
+        ],
+        "education": {
+            "universityName": "University of Utah",
+            "universityDate": "2017-2023",
+            "universityPara": "I started at the U as a pre-med student and completed two years in those courses before realizing my during-school-job was a better fit and had greater growth. I focused on Computer Science to aid my growing skills in web and web app development. I expect to graduate this fall"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go",
+            "Java/Apex",
+            "C++",
+            "C#",
+            "SQL",
+            "XML",
+            "Manuscript"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs",
+            "Express",
+            "Django"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS",
+            "Azure",
+            "Git",
+            "Jira",
+            "Confluence",
+            "Salesforce",
+            "Heroku",
+            "Office 365"
+        ]
+    }
+}
